@@ -38,7 +38,7 @@ The Todo List App is a simple web application built using React and Redux that a
 
 To run this application locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/farmanali12/newrdxtodo
 
 
 2. Navigate to the project directory:
